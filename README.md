@@ -34,7 +34,7 @@ Open the src/main/resources/application.properties file and update the following
 5. spring.mail.properties.mail.smtp.auth=true
 6. spring.mail.properties.mail.smtp.starttls.enable=true
 
-# Usage
+# Instructions
 Access the Swagger API documentation: http://localhost:8080/swagger-ui.html.
 
 Send Emails:
